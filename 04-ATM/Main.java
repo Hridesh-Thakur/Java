@@ -1,5 +1,3 @@
-package ATM;
-
 import java.util.Scanner;
 
 

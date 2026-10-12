@@ -1,5 +1,3 @@
-package variables;
-// chai bill spliter
 import java.util.Scanner;
 
 public class Task {
