@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class ATM {
 
     static double balance = 5000.0;
     static int pin = 1234;
